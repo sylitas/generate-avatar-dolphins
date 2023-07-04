@@ -1,1 +1,3 @@
-# generate-avatar-dolphins
+# OpenAI
+## ChatGPT
+## DallE
